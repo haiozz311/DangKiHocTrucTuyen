@@ -1,0 +1,23 @@
+﻿body {
+}
+#ibnEdit{
+    width:150px;
+}
+#title-header{
+    font-size:35px;
+    color:red;
+    font-weight:bold;
+}
+#title-header{
+    margin: 0px;
+    position: absolute;
+    top: 50%;
+    transform:translateY(-50%);
+}
+#ImageButton1{
+    width:100%;
+}
+.footer{
+    color:white;
+    font-weight:bold;
+}
